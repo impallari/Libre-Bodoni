@@ -1,0 +1,12 @@
+To Do:
+
+In the Romans:
+- Kerning
+
+In the Italics:
+- Add Numerators, etc (interpolated)
+- Review Spacing
+- Review Diacritics
+- Add Kerning
+
+
