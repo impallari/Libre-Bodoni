@@ -4,7 +4,7 @@ This file provides detailed information on the Libre Bodoni Font Software.
 This information should be distributed along with the Libre Bodoni fonts and any derivative works.
 
 Basic Font Information:
-Libre Bodoni is a webfont family optimized for body text. Based on 1923 ATF Specimens.
+Libre Bodoni is a webfont family optimized web for body text. Based on 1923 ATF Specimens.
 
 Join the project at Github
 Documentation can be found at www.impallari.com
@@ -12,8 +12,11 @@ To contribute to the project contact Pablo Impallari at impallari@gmail.com
 
 ChangeLog
 
-XX DIC 2014 (Pablo Impallari, Rodrigo Fuenzalida) Libre Bodoni v1.0
-- Initial v1.0 release
+21 May 2015 (Pablo Impallari, Rodrigo Fuenzalida) Libre Bodoni v1.000
+- Initial Release
+
+17 Sept 2014 (Pablo Impallari, Rodrigo Fuenzalida) Libre Bodoni v0.001
+- Initial Sketchs
 
 Acknowledgements
 

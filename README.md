@@ -1,11 +1,10 @@
 Libre Bodoni Fonts
 ======================
 
-Libre Bodoni fonts in 4 styles (Regular, Italic, Bold and Bold Italic).
+Libre Bodoni fonts in 4 styles: Regular, Italic, Bold and Bold Italic.
 
 Based on 1923 ATF specimens, tunned for web body text.
 
-Work in progress
 
 ## License
 
